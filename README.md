@@ -188,4 +188,4 @@ This repository serves as the official landing page for Hide Window Plus. The so
 **Get the most recent version of Hide Window Plus today!**
 
 ---
-**Last updated:** 2026-11-13 14:10:06 UTC
+**Last updated:** 2026-11-13 21:15:14 UTC
